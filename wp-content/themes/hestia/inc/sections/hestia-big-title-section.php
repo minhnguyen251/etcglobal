@@ -88,7 +88,7 @@ function hestia_show_big_title_content( $content ) {
 			<div class="buttons">
 				<a href="<?php echo esc_url( $content['button_link'] ); ?>" title="<?php echo esc_html( $content['button_text'] ); ?>" class="btn btn-primary btn-lg" <?php echo hestia_is_external_url( $content['button_link'] ); ?>><?php echo esc_html( $content['button_text'] ); ?></a>
 				<?php hestia_big_title_section_buttons_trigger(); ?>
-                <a href="#" title="<?php echo esc_html( $content['button_text'] ); ?>" class="btn btn-primary btn-lg" <?php echo hestia_is_external_url( $content['button_link'] ); ?>><?php echo esc_html( $content['button_text'] ); ?></a>
+                <a href="#" title="#" class="btn btn-primary btn-lg">Sống tại Pháp</a>
                 <?php hestia_big_title_section_buttons_trigger(); ?>
 			</div>
 		<?php } ?>

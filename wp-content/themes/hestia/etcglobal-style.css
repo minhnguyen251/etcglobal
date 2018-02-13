@@ -1,4 +1,7 @@
 @charset "UTF-8";
+.hestia-about ul {
+	font-size: 18px;
+}
 .hestia-blogs {
 	 display: none;
  }
@@ -13,4 +16,13 @@
 }
 .navbar-not-transparent .navbar-brand img {
 	display: none;
+}
+.carousel .buttons a {
+	width: 160px;
+}
+.pirate-forms-placeholder .pirate-forms-placeholder-overlay {
+	display: none;
+}
+.contactus {
+	padding: 70px;
 }
