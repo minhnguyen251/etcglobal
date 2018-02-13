@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.hestia-blogs {
+	 display: none;
+ }
+.home .main-raised section:first-of-type {
+	background: white;
+}
+.navbar.navbar-not-transparent > .container .navbar-brand {
+	width: 117px;
+	height: 50px;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.navbar-not-transparent .navbar-brand img {
+	display: none;
+}
