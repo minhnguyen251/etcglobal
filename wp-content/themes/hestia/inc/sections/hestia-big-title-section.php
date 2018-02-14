@@ -80,16 +80,17 @@ function hestia_show_big_title_content( $content ) {
 ">
 		<?php if ( ! empty( $content['title'] ) ) { ?>
 			<h1 class="hestia-title"><?php echo wp_kses_post( $content['title'] ); ?></h1>
+            <a href="#" title="#" class="btn btn-primary btn-lg">Đến với Pháp</a>
+            <a href="#" title="#" class="btn btn-primary btn-lg">Sống tại Pháp</a>
 		<?php } ?>
 		<?php if ( ! empty( $content['text'] ) ) { ?>
 			<span class="sub-title"><?php echo wp_kses_post( $content['text'] ); ?></span>
 		<?php } ?>
 		<?php if ( ! empty( $content['button_link'] ) && ! empty( $content['button_text'] ) ) { ?>
 			<div class="buttons">
-				<a href="<?php echo esc_url( $content['button_link'] ); ?>" title="<?php echo esc_html( $content['button_text'] ); ?>" class="btn btn-primary btn-lg" <?php echo hestia_is_external_url( $content['button_link'] ); ?>><?php echo esc_html( $content['button_text'] ); ?></a>
-				<?php hestia_big_title_section_buttons_trigger(); ?>
+				<!--<a href="<?php /*echo esc_url( $content['button_link'] ); */?>" title="<?php /*echo esc_html( $content['button_text'] ); */?>" class="btn btn-primary btn-lg" <?php /*echo hestia_is_external_url( $content['button_link'] ); */?>><?php /*echo esc_html( $content['button_text'] ); */?></a>-->
+                <a href="#" title="#" class="btn btn-primary btn-lg">Đến với Pháp</a>
                 <a href="#" title="#" class="btn btn-primary btn-lg">Sống tại Pháp</a>
-                <?php hestia_big_title_section_buttons_trigger(); ?>
 			</div>
 		<?php } ?>
 	</div>

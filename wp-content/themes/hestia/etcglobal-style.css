@@ -17,12 +17,17 @@
 .navbar-not-transparent .navbar-brand img {
 	display: none;
 }
-.carousel .buttons a {
+.carousel a.btn {
 	width: 160px;
+	margin-top: 20px;
 }
 .pirate-forms-placeholder .pirate-forms-placeholder-overlay {
 	display: none;
 }
 .contactus {
 	padding: 70px;
+}
+h1.hestia-title {
+	font-size: 50px;
+	font-weight: 300;
 }
