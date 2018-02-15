@@ -24,10 +24,30 @@
 .pirate-forms-placeholder .pirate-forms-placeholder-overlay {
 	display: none;
 }
-.contactus {
+.contact-us {
 	padding: 70px;
+	background: url("/wp-content/uploads/2018/02/footer-1.jpg") center center no-repeat;
+	background-size: cover;
+}
+.overlay {
+	position: relative;
+}
+.overlay,.overlay h1,.overlay h2 {
+	color: white;
+}
+.overlay::before {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-color: rgba(0,0,0,0.6);
 }
 h1.hestia-title {
 	font-size: 50px;
 	font-weight: 300;
+}
+div.wpforms-container-full .wpforms-form input, div.wpforms-container-full .wpforms-form textarea.wpforms-field-medium {
+	background-image: none!important;
 }

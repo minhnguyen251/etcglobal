@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0518858f-c341-4105-be82-89c8d1b88d58" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/hestia/assets/js/scripts.js" afterPath="$PROJECT_DIR$/wp-content/themes/hestia/assets/js/scripts.js" />
+      <change beforePath="$PROJECT_DIR$/footer.jpg" afterPath="$PROJECT_DIR$/footer.jpg" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/hestia/etcglobal-style.css" afterPath="$PROJECT_DIR$/wp-content/themes/hestia/etcglobal-style.css" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-big-title-section.php" afterPath="$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-big-title-section.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/hestia/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/hestia/footer.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,73 +19,55 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="hestia-blog-section.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-blog-section.php">
+          <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/functions.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1566">
-                  <caret line="92" column="58" lean-forward="false" selection-start-line="92" selection-start-column="58" selection-end-line="92" selection-end-column="58" />
+                <state relative-caret-position="132">
+                  <caret line="570" column="34" lean-forward="false" selection-start-line="570" selection-start-column="34" selection-end-line="570" selection-end-column="34" />
                   <folding>
-                    <marker date="1518439356000" expanded="true" signature="1087:1100" ph="..." />
+                    <marker date="1518439356000" expanded="true" signature="31777:32523" ph="..." />
+                    <marker date="1518439356000" expanded="true" signature="31887:32434" ph="..." />
+                    <marker date="1518439356000" expanded="true" signature="31923:32423" ph="..." />
+                    <marker date="1518439356000" expanded="true" signature="32056:32248" ph="..." />
+                    <marker date="1518439356000" expanded="true" signature="32290:32412" ph="..." />
+                    <marker date="1518439356000" expanded="true" signature="32472:32515" ph="..." />
+                    <marker date="1518439356000" expanded="true" signature="35547:35565" ph="..." />
+                    <marker date="1518439356000" expanded="true" signature="35627:35648" ph="..." />
+                    <marker date="1518439356000" expanded="true" signature="37119:37137" ph="..." />
+                    <marker date="1518439356000" expanded="true" signature="37197:37218" ph="..." />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="template-tags.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/template-tags.php">
+          <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/header.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17316">
-                  <caret line="969" column="52" lean-forward="false" selection-start-line="969" selection-start-column="52" selection-end-line="969" selection-end-column="52" />
-                  <folding>
-                    <marker date="1518523785000" expanded="true" signature="17514:18486" ph="..." />
-                    <marker date="1518523785000" expanded="true" signature="17544:18480" ph="..." />
-                    <marker date="1518523785000" expanded="true" signature="17582:17851" ph="..." />
-                    <marker date="1518523785000" expanded="true" signature="17813:17847" ph="..." />
-                    <marker date="1518523785000" expanded="true" signature="17889:18185" ph="..." />
-                    <marker date="1518523785000" expanded="true" signature="18148:18181" ph="..." />
-                    <marker date="1518523785000" expanded="true" signature="18223:18470" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="hestia-about-section.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-about-section.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="594">
-                  <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-                  <folding>
-                    <marker date="1518522951000" expanded="true" signature="582:594" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="hestia-big-title-section.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-big-title-section.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="308">
-                  <caret line="86" column="79" lean-forward="false" selection-start-line="86" selection-start-column="79" selection-end-line="86" selection-end-column="79" />
+                <state relative-caret-position="196">
+                  <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/wp-config.php">
+          <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/footer.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="216">
-                  <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-                  <folding />
+                <state relative-caret-position="324">
+                  <caret line="18" column="533" lean-forward="true" selection-start-line="18" selection-start-column="533" selection-end-line="18" selection-end-column="533" />
+                  <folding>
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#span#1;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/assets/js/scripts.js">
+          <file leaf-file-name=".htaccess" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.htaccess">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="368">
-                  <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+                <state relative-caret-position="180">
+                  <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
                   <folding />
                 </state>
               </provider>
@@ -93,22 +76,22 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file leaf-file-name="etcglobal-style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/etcglobal-style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="540">
-                  <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+                <state relative-caret-position="340">
+                  <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="scratch_13.html" pinned="false" current-in-tab="false">
-            <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13.html">
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+                <state relative-caret-position="349">
+                  <caret line="149" column="37" lean-forward="true" selection-start-line="149" selection-start-column="37" selection-end-line="149" selection-end-column="37" />
                   <folding />
                 </state>
               </provider>
@@ -131,6 +114,9 @@
       <find>hestia-big-title-content</find>
       <find>hestia-title</find>
       <find>data-para</find>
+      <find>hestia-contact-section</find>
+      <find>focused</find>
+      <find>d10000</find>
     </findStrings>
     <replaceStrings>
       <replace>etglobaldev.com</replace>
@@ -147,14 +133,15 @@
       <list>
         <option value="$PROJECT_DIR$/provision.sh" />
         <option value="$PROJECT_DIR$/Vagrantfile" />
-        <option value="$PROJECT_DIR$/wp-content/themes/hestia/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/hestia/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-about-section.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/hestia/inc/template-tags.php" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-big-title-section.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/hestia/assets/js/scripts.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hestia/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/hestia/etcglobal-style.css" />
+        <option value="$PROJECT_DIR$/.htaccess" />
       </list>
     </option>
   </component>
@@ -186,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -235,7 +223,16 @@
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="hestia" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="inc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo-preview-images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ETGlobal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ETGlobal" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="hestia" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo-preview-images" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="ETGlobal" type="b2602c69:ProjectViewProjectNode" />
@@ -244,7 +241,6 @@
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="hestia" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="inc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="features" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="ETGlobal" type="b2602c69:ProjectViewProjectNode" />
@@ -272,13 +268,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="wp-config&#9;FILE&#9;file:///Volumes/Macintosh HD/Users/minhn/PhpstormProjects/ETGlobal/wp-config.php&#10;wp-co&#9;FILE&#9;file:///Volumes/Macintosh HD/Users/minhn/PhpstormProjects/ETGlobal/wp-config.php" />
+    <property name="SearchEverywhereHistoryKey" value="htacce&#9;FILE&#9;file:///Volumes/Macintosh HD/Users/minhn/PhpstormProjects/ETGlobal/.htaccess&#10;style&#9;FILE&#9;file:///Volumes/Macintosh HD/Users/minhn/PhpstormProjects/ETGlobal/wp-content/themes/hestia/style.css&#10;et&#9;FILE&#9;file:///Volumes/Macintosh HD/Users/minhn/PhpstormProjects/ETGlobal/wp-content/themes/hestia/etcglobal-style.css&#10;wp-config&#9;FILE&#9;file:///Volumes/Macintosh HD/Users/minhn/PhpstormProjects/ETGlobal/wp-config.php&#10;wp-co&#9;FILE&#9;file:///Volumes/Macintosh HD/Users/minhn/PhpstormProjects/ETGlobal/wp-config.php" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="HTML" />
   </component>
   <component name="RecentsManager">
@@ -314,7 +309,8 @@
       <workItem from="1518437952570" duration="2080000" />
       <workItem from="1518441978975" duration="4000" />
       <workItem from="1518522039632" duration="6022000" />
-      <workItem from="1518610929000" duration="2528000" />
+      <workItem from="1518610929000" duration="2727000" />
+      <workItem from="1518696285599" duration="3771000" />
     </task>
     <task id="LOCAL-00001" summary="Ok homepage">
       <created>1518527988355</created>
@@ -323,17 +319,24 @@
       <option name="project" value="LOCAL" />
       <updated>1518527988355</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="14/02">
+      <created>1518613708144</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1518613708144</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10634000" />
+    <option name="totallyTimeSpent" value="14604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25772098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2603834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -361,13 +364,91 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ok homepage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ok homepage" />
+    <MESSAGE value="14/02" />
+    <MESSAGE value="15/02" />
+    <option name="LAST_COMMIT_MESSAGE" value="15/02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-blog-section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="92" column="58" lean-forward="false" selection-start-line="92" selection-start-column="58" selection-end-line="92" selection-end-column="58" />
+          <folding>
+            <marker date="1518439356000" expanded="true" signature="1087:1100" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/template-tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17316">
+          <caret line="969" column="52" lean-forward="false" selection-start-line="969" selection-start-column="52" selection-end-line="969" selection-end-column="52" />
+          <folding>
+            <marker date="1518523785000" expanded="true" signature="17514:18486" ph="..." />
+            <marker date="1518523785000" expanded="true" signature="17544:18480" ph="..." />
+            <marker date="1518523785000" expanded="true" signature="17582:17851" ph="..." />
+            <marker date="1518523785000" expanded="true" signature="17813:17847" ph="..." />
+            <marker date="1518523785000" expanded="true" signature="17889:18185" ph="..." />
+            <marker date="1518523785000" expanded="true" signature="18148:18181" ph="..." />
+            <marker date="1518523785000" expanded="true" signature="18223:18470" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-about-section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <marker date="1518522951000" expanded="true" signature="582:594" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-big-title-section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="86" column="79" lean-forward="false" selection-start-line="86" selection-start-column="79" selection-end-line="86" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/etcglobal-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-blog-section.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1566">
@@ -457,13 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Vagrantfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -475,13 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="8986" column="0" lean-forward="true" selection-start-line="8986" selection-start-column="0" selection-end-line="8986" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -513,19 +580,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-blog-section.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1566">
-          <caret line="92" column="58" lean-forward="false" selection-start-line="92" selection-start-column="58" selection-end-line="92" selection-end-column="58" />
-          <folding>
-            <marker date="1518439356000" expanded="true" signature="1087:1100" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-about-section.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
+        <state relative-caret-position="592">
           <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
             <marker date="1518522951000" expanded="true" signature="582:594" ph="..." />
@@ -533,9 +590,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/demo-preview-images/img/7.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/demo-preview-images/img/3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/demo-preview-images/img/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-big-title-section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="86" column="79" lean-forward="false" selection-start-line="86" selection-start-column="79" selection-end-line="86" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/template-tags.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17316">
+        <state relative-caret-position="592">
           <caret line="969" column="52" lean-forward="false" selection-start-line="969" selection-start-column="52" selection-end-line="969" selection-end-column="52" />
           <folding>
             <marker date="1518523785000" expanded="true" signature="17514:18486" ph="..." />
@@ -549,6 +645,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-blog-section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="92" column="58" lean-forward="false" selection-start-line="92" selection-start-column="58" selection-end-line="92" selection-end-column="58" />
+          <folding>
+            <marker date="1518439356000" expanded="true" signature="1087:1100" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -557,34 +663,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/inc/sections/hestia-big-title-section.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="86" column="79" lean-forward="false" selection-start-line="86" selection-start-column="79" selection-end-line="86" selection-end-column="79" />
+        <state relative-caret-position="132">
+          <caret line="570" column="34" lean-forward="false" selection-start-line="570" selection-start-column="34" selection-end-line="570" selection-end-column="34" />
+          <folding>
+            <marker date="1518439356000" expanded="true" signature="31777:32523" ph="..." />
+            <marker date="1518439356000" expanded="true" signature="31887:32434" ph="..." />
+            <marker date="1518439356000" expanded="true" signature="31923:32423" ph="..." />
+            <marker date="1518439356000" expanded="true" signature="32056:32248" ph="..." />
+            <marker date="1518439356000" expanded="true" signature="32290:32412" ph="..." />
+            <marker date="1518439356000" expanded="true" signature="32472:32515" ph="..." />
+            <marker date="1518439356000" expanded="true" signature="35547:35565" ph="..." />
+            <marker date="1518439356000" expanded="true" signature="35627:35648" ph="..." />
+            <marker date="1518439356000" expanded="true" signature="37119:37137" ph="..." />
+            <marker date="1518439356000" expanded="true" signature="37197:37218" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="349">
+          <caret line="149" column="37" lean-forward="true" selection-start-line="149" selection-start-column="37" selection-end-line="149" selection-end-column="37" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="533" lean-forward="true" selection-start-line="18" selection-start-column="533" selection-end-line="18" selection-end-column="533" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#span#1;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/etcglobal-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        <state relative-caret-position="340">
+          <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/assets/js/scripts.js">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        <state relative-caret-position="180">
+          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
           <folding />
         </state>
       </provider>
